@@ -13,4 +13,3 @@ Bu Task ile iki önemli konu hakkında sizleri tanımaya çalışacağım.
 -Fonksiyonların sonuçlarını document.write() fonksiyonu ile ekrana yazdırmalısınız. (Farklı tasarım yaparsanız farklı yöntemler kullanabilirsiniz.)
 -HTML konusundaki yeteneklerinizi keşfetmek veya göstermek için <input> etiketini kullanarak kullanıcıdan gerekli 2 sayıyı alabilirsiniz.*
 -CSS konusundaki yeteneklerinizi keşfetmek veya göstermek için basit bir hesap makinesi tasarımı yapabilirsiniz.*
-* işaretli maddeler size fayda sağlayacaktır, yapabilirseniz ben de sevinirim.
